@@ -1,0 +1,10 @@
+.App {
+  box-sizing: border-box;
+  justify-content: center;
+  padding: 10px;
+}
+
+.formClass {
+  border: 2px;
+  justify-content: center;
+}
